@@ -1,0 +1,15 @@
+{
+  "name": "alpha_vantage_scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".#generate_dcf_csv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "faint_bunny",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "yargs": "^17.0.1"
+  }
+}
