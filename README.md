@@ -1,4 +1,4 @@
-## NOTE:  USE THIS SCRIPT AT YOUR OWN RISK.  Nothing in this repository should be considered financial advice.  In fact, if you use this script you will most likely lose money.  Markets can be highly volatile and you should fully understand the risks with the markets before investing in any company.  Additionally, the data from alpha vantage may not necessarily reflect what the company reports to the SEC.  If you want to ensure precise figures please consult the companies 10K filings located at sec.gov
+## NOTE:  USE THIS SCRIPT AT YOUR OWN RISK.  I am not a financial advisor, and any output of this script should not be construed as financial advice.  If you base financial decisions based on the output of this script, you are a fucking idiot.
 
 
 Simple script to pull company financial data from alphavantage(https://www.alphavantage.co/) to assist in calculating discounted cash flow
