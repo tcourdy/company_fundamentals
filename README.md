@@ -1,4 +1,4 @@
-## NOTE:  USE THIS SCRIPT AT YOUR OWN RISK.  I am not a financial advisor, and any output of this script should not be construed as financial advice.  If you make financial decisions based on the output of this script you are a fucking idiot.
+## NOTE:  USE THIS SCRIPT AT YOUR OWN RISK.  I am not a financial advisor, and any output of this script should not be construed as financial advice.  Do not make financial decisions based on the output of this script. Please do your own research.
 
 
 Simple script to pull company financial data from alphavantage(https://www.alphavantage.co/) to assist in calculating discounted cash flow
